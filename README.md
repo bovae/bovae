@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋🏼</h1>
-<h3 align="center">My working experience says that I'm solidly familiar with Spring and everything related to it. That experience contains team-leading, the development of the chain of interconnected applications, deep calculations with in-time statistics, tons of optimizations concerning Java, Spring, and SQL queries.</h3>
+<h3 align="center">My working experience says that I'm solidly familiar with Spring and everything related to it. That experience contains team-leading, the development of the chain of interconnected applications, deep calculations with in-time statistics, tons of optimizations concerning Java, Spring, SQL queries, and so on.</h3>
 
 - 🔭 I’m currently working at [DataArt](https://www.dataart.com/)
 
