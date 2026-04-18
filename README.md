@@ -1,4 +1,3 @@
-<h1 align="center">bovae</h1>
 <p align="center">Software Engineer at <a href="https://www.dataart.com/">DataArt</a></p>
 
 <p align="center">
